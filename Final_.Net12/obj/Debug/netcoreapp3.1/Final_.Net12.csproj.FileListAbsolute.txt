@@ -1,0 +1,13 @@
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\bin\Debug\netcoreapp3.1\Final_.Net12.exe
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\bin\Debug\netcoreapp3.1\Final_.Net12.deps.json
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\bin\Debug\netcoreapp3.1\Final_.Net12.runtimeconfig.json
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\bin\Debug\netcoreapp3.1\Final_.Net12.runtimeconfig.dev.json
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\bin\Debug\netcoreapp3.1\Final_.Net12.dll
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\bin\Debug\netcoreapp3.1\Final_.Net12.pdb
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\obj\Debug\netcoreapp3.1\Final_.Net12.csprojAssemblyReference.cache
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\obj\Debug\netcoreapp3.1\Final_.Net12.AssemblyInfoInputs.cache
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\obj\Debug\netcoreapp3.1\Final_.Net12.AssemblyInfo.cs
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\obj\Debug\netcoreapp3.1\Final_.Net12.csproj.CoreCompileInputs.cache
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\obj\Debug\netcoreapp3.1\Final_.Net12.dll
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\obj\Debug\netcoreapp3.1\Final_.Net12.pdb
+C:\Users\d\source\repos\Final_.Net12\Final_.Net12\obj\Debug\netcoreapp3.1\Final_.Net12.genruntimeconfig.cache
